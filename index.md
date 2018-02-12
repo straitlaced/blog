@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Week 4
 
-You can use the [editor on GitHub](https://github.com/straitlaced/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## What did you do the last week?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It had been a cumbersome week for me. The reading assignments, as ever, were always keeping me up at night. The two classes, American Literature and Government aren't too difficult. Government has always been of interest to me, especially international relations. The topic of the nation-states perpetually clashing in their neverending pursuit of survival and supremacy never fails to provide countless tragic tales of rise and downfall. English began to cover 17th-18th century writing: [religious fanatics](https://en.wikipedia.org/wiki/Puritans) and [egotist writers](https://en.wikipedia.org/wiki/Benjamin_Franklin). For as many pieces of writing there were during the days of the Puritans, there were endless Bible quotes to match. They were about as exciting to read as sitting through a Sunday sermon. At least Benjamin Franklin covered much more interesting topics such as philosophy and morals. That much I can care to read. My other Computer Science course, Random Algorithms, is not going very well. At least I have the comfort in knowing that I am not alone in suffering through that class for the average class grade is telling. The lectures were horrendously boring, so boring in fact I made sure to diligently read as much as I can from the assigned readings before the professor lulls me to a state between awake and asleep. Even then, the quiz (more like a test really) was far from easy. I spent more time looking at the packet of papers deciphering the questions than writing. Although I did have a slight reassurance that everyone else appears to be doing the exact same as me: utter confusion and headscratching. Software Engineering is really going far better. Although I have little experience with Web Development, there are plenty of resources online for me to digest so I would at least have some guidance in what to do.
 
 ### Markdown
 
